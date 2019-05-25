@@ -1,7 +1,3 @@
 # appauto_github_01
 
-hello，world
-
-nihao
-
-afafa
+hello，world，nihao,张三
