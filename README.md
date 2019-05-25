@@ -1,3 +1,3 @@
 # appauto_github_01
 
-hello，world
+hello，world,你好
